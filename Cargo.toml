@@ -1,0 +1,11 @@
+[package]
+name = "spotctl"
+version = "0.1.0"
+authors = ["Travis Gockel <travis@gockelhut.com>"]
+edition = "2018"
+
+[dependencies]
+failure = "0.1"
+rand = "0.7"
+rspotify = "0.7"
+structopt = "0.3"

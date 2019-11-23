@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+.idea
+.spotify_token_cache.json
+*.iml
+Cargo.lock
